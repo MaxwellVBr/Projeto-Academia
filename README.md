@@ -22,3 +22,8 @@ O Desafio era criar uma software para academias com um banco de dados para cadas
 
 12/2022
 
+# Utilizado
+
+  1.NetBeans
+
+  2.MySQL
